@@ -1,6 +1,6 @@
 # Hangman
 
-Welcome to the **Hangman Game**! This is a classic word-guessing game where the player attempts to guess a hidden word by suggesting letters within a limited number of attempts. The game provides visual feedback in the form of a Hangman figure that progressively completes with each incorrect guess.
+Welcome to the **Hangman Game**! This is a classic word-guessing game where the player attempts to guess a hidden word by suggesting letters within a limited number of attempts. The game provides visual feedback in the form of a Hangman figure that progressively completes with each incorrect guess. This project uses **CMake** to manage the build process.
 
 
 
