@@ -90,3 +90,6 @@ To compile and run the game, you need:
 
 ## Contributions
 Contributions are welcome! If you'd like to improve the game or add features, feel free to open a merge request.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
